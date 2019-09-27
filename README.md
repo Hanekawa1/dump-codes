@@ -5,10 +5,8 @@ Esse repositório tem por finalidade apenas guardar códigos avulsos de diversas
 
 ## Python
 
-* Enigma das Jarras (jarras.py): 
+* Enigma das Jarras (jarras.py); 
 
-    Você tem três jarras numa mesa a sua frente.
-    A primeira comporta três litros, a segunda cinco litros e a última, comporta oito, e é a única que está cheia.
-    Seu objetivo é separar quatro litros nas jarras b e c, e o único movimento que você pode fazer
-    é o de trocar o líquido de uma jarra para a outra, até que ela atinja o limite da jarra que recebe,
-    ou até o líquido da jarra que despeja acabar.
+## JavaScript
+
+* Modelo ORM Sequelize (model.js);
