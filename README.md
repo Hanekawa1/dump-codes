@@ -3,10 +3,14 @@ Esse repositório tem por finalidade apenas guardar códigos avulsos de diversas
 
 # Lista de códigos:
 
-## Python
+## Go
 
-* Enigma das Jarras (jarras.py); 
+* Crud básico (crud.go);
 
 ## JavaScript
 
 * Modelo ORM Sequelize (model.js);
+
+## Python
+
+* Enigma das Jarras (jarras.py); 
