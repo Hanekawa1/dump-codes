@@ -10,6 +10,7 @@ Esse repositório tem por finalidade apenas guardar códigos avulsos de diversas
 ## JavaScript
 
 * Modelo ORM Sequelize (model.js);
+* Teste de API com Mocha & Chai (carta.spec.js);
 
 ## Python
 
