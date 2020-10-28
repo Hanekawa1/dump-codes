@@ -15,3 +15,4 @@ Esse repositório tem por finalidade apenas guardar códigos avulsos de diversas
 ## Python
 
 * Enigma das Jarras (jarras.py); 
+* Extrator de coordenadas de um documento em específico (planitia.py);
